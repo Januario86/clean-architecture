@@ -1,5 +1,4 @@
-# clean-architecture
-
+#Java e Clean Architecture:
 Descomplicando arquitetura de software
 
 | :placard: Vitrine.Dev |     |
