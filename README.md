@@ -9,7 +9,7 @@ Descomplicando arquitetura de software
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://www.alura.com.br/assets/api/cursos/java-clean-architecture.svg)
+![](https://www.alura.com.br/assets/api/cursos/java-clean-architecture.svg#vitrinedev)
 
 
 ## Detalhes do projeto
