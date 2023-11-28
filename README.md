@@ -5,7 +5,7 @@ Descomplicando arquitetura de software
 | -------------  | --- |
 | :sparkles: Nome        | **Java e Clean Architecture**
 | :label: Tecnologias | java
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://github.com/Januario86/clean-architecture/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
